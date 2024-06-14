@@ -1,0 +1,2 @@
+example of dup2
+Q
